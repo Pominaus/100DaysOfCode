@@ -18,5 +18,6 @@ A great intro to this challenge from its creator can be found [here](https://med
 * Under the logbook directory you should find a logbook for each week of the challenge
 * Under the code directory you should find a directory for each week of the challenge
 * In those directories, you'll find the daily code snippits. 
+
 _simples!_
 
