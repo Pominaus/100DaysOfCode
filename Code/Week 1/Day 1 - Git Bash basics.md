@@ -1,4 +1,4 @@
-## As today was just learning git bash, there's no code per se, just terminal commands. Here is a sample of what I learned today (I use echo here to show what's in the files):
+#### As today was just learning git bash, there's no code per se, just terminal commands. Here is a sample of what I learned today (I use echo here to show what's in the files):
 
 $git config --global user.name "Jon"
 git config --global user.email "jon@mail.none"
