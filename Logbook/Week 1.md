@@ -10,6 +10,7 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 
 **Link to work:** [Day 1](https://github.com/Pominaus/100-days-of-code/blob/master/Code/Day%201%20-%20Git%20Bash.md)
 
+---  
 
 ### Day 2: 23 May, 2017
 
@@ -20,6 +21,8 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 **Link to work:**  [Day 2](https://github.com/Pominaus/100DaysOfCode/blob/master/Code/Week%201/Day%202%20-%20Git%20Bash%20intermediate.md)
 
 ### Day 3: 24 May, 2017
+
+---  
 
 **Today's Progress:** Whoo what a day! Having been away on honeymoon for a month, and busy the month previous, this was my first day back into web development. I spent most of the day just studying on freecode camp to catch back up and stave off the dreaded knowledge loss. I only just managed to squeeze in a little CSS on codepen.io for about 1hhr 15 before running out of time.
 
