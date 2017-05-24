@@ -1,0 +1,95 @@
+div,body {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+h1,h3 {
+  display: inline-block;
+  font-family: arial;
+}
+.page-wrap {
+  width: 100%;
+  height: 100vh;
+  min-height: 100px;
+  min-width: 330px;
+  background-color: lightgrey;
+}
+
+.profile-banner {
+  top: 5vw;
+  position: absolute;
+  left: 5%;
+  width: 90%;
+  min-height: 250px;
+  background-color: white;
+  border-radius: 3px; 
+}
+
+.profile-pic {
+  display: inline-block;
+  position: relative;
+  top: 50px;
+  left: 50px;
+  
+}
+#profile-photo {
+  border-radius: 50%;
+  border: 4px solid yellow;
+  width:150px;
+  height: 150px;
+  
+}
+
+#profile-break {
+  position: relative;
+  top: 50px;
+  left: 95px;
+  display: inline-block;
+  border: 0;
+  width: 2px;
+  height: 150px;
+  background-color: lightgrey;
+   background-image: linear-gradient(to top, white, blue, white);
+}
+
+h1 {
+  position: relative;
+  top: -100px;
+  left: 400px;
+  color: red;
+  
+}
+
+h3{ 
+  position: relative;
+  top: -50px;
+  left: 5px;
+color: green;
+}
+
+.fa {
+  position: absolute;
+  }
+
+.fa-facebook {
+  color: red;
+  top: -20px;
+  left: 140px;
+}
+
+.fa-twitter {
+  color: yellow;
+  top: 35px;
+  left: 170px;
+}
+.fa-instagram {
+  color: green;
+  top: 100px;
+  left: 170px;
+}
+.fa-linkedin {
+  color: blue;
+  top: 150px;
+  left: 140px;
+}
