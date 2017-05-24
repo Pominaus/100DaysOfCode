@@ -25,4 +25,4 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 
 **Thoughts:** It's amazing the difference that even a small period of inactivity can lead to! After spending 2 days learning new things with git, today was back to revising that which I should know and exposing knowledge gaps. Weirdly I was more comfortable with a lot fo the more challenging stuff than the easier, and I think that's because I'd studied it more recently. Today has really reminded me how important it is to keep up with the coding. As one of my favourite instructors suggests: FOCUS: Follow One Course Until Succesful
 
-**Link to work:** [Day 3]()
+**Link to work:** [Day 3](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%201/Day%203)
