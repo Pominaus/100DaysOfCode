@@ -17,7 +17,7 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 
 **Thoughts:** Today was interesting as the material I was following was treating the Github side of things as more advanced,but from using the website, some of the more advanced areas like branching, cloning, commenting, "time traveling" through history, etc. But at the same time, learning how to do this from git bash helped me to understand things in a deeper level. All in all I feel ready to move on from studying git and just start using it day to day from my computer and learn on the job as it were. There's still a few times I've gotten lost when my local and remote branches have gotten out of sync and I didn't notice it, but I think I'm now working out how to spot the error and where to go.
 
-**Link to work:**  [Day 2](100DaysOfCode/Code/Week 1/Day 2 - Git Bash intermediate.md)
+**Link to work:**  [Day 2](https://github.com/Pominaus/100DaysOfCode/blob/master/Code/Week%201/Day%202%20-%20Git%20Bash%20intermediate.md)
 
 ### Day 3: 24 May, 2017
 
