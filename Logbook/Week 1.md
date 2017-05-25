@@ -31,3 +31,14 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 **Thoughts:** It's amazing the difference that even a small period of inactivity can lead to! After spending 2 days learning new things with git, today was back to revising that which I should know and exposing knowledge gaps. Weirdly I was more comfortable with a lot fo the more challenging stuff than the easier, and I think that's because I'd studied it more recently. Today has really reminded me how important it is to keep up with the coding. As one of my favourite instructors suggests: FOCUS: Follow One Course Until Succesful
 
 **Link to work:** [Day 3](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%201/Day%203)
+
+---
+
+
+### Day 4: 25 May, 2017
+
+**Today's Progress:** Today I was a little limited for time, and knew I wouldn't have time to do what I'd planned on my web development track, so instead I went back to my hobby of Unity game development and did some eperiments with reflections andthe state machine.
+
+**Thoughts:** It's been a little while since I've had a play in Unity what with focusing on my webdevelopment goals, so it was nice to just spend a couple of hours playing around again, and really interesting to see how things I've learnt as a web developer actually came to help my insite into Unity engine's functionality.
+
+**Link to work:** Sadly as this was all inside the unity editor today, it's all just config files, so no upload today. When I get around to adding a repo for my unity projects, I'll add a README in for today's work.
