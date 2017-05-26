@@ -52,4 +52,4 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 
 **Thoughts:** The stuff covered on Pluralsight was really interesting and indepth. The freecodecamp algorithms were the beginner ones so a bit easier, but it was really good to have a go and refresh myself on them, feel like I'm making progress.
 
-**Link to work:**
+**Link to work:** [Day 5](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%201/Day%204)
