@@ -42,3 +42,14 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 **Thoughts:** It's been a little while since I've had a play in Unity what with focusing on my webdevelopment goals, so it was nice to just spend a couple of hours playing around again, and really interesting to see how things I've learnt as a web developer actually came to help my insite into Unity engine's functionality.
 
 **Link to work:** Sadly as this was all inside the unity editor today, it's all just config files, so no upload today. When I get around to adding a repo for my unity projects, I'll add a README in for today's work.
+
+---
+
+
+### Day 5: 26 May 2017:
+
+**Today's Progress:** Today I got back on track with javascript. I watch a couple of hours of videos on pluralsight and then went back over to freecodecamp's website to test myself on some algorithms for an hour.
+
+**Thoughts:** The stuff covered on Pluralsight was really interesting and indepth. The freecodecamp algorithms were the beginner ones so a bit easier, but it was really good to have a go and refresh myself on them, feel like I'm making progress.
+
+**Link to work:**
