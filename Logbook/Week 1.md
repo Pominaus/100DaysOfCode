@@ -53,3 +53,14 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 **Thoughts:** The stuff covered on Pluralsight was really interesting and indepth. The freecodecamp algorithms were the beginner ones so a bit easier, but it was really good to have a go and refresh myself on them, feel like I'm making progress.
 
 **Link to work:** [Day 5](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%201/Day%204)
+
+---
+
+
+### Day 6: 27 May 2017:
+
+**Today's Progress:** Today I started off by spending an hour of so just playing aroung with regex expressions to become more familiar, then did a few algorithm challenges from freecodecamp.
+
+**Thoughts:** The RegEx was hard! This is something I've done before, but it really hadn't stuck in my memory, and so took about 20 minutes to make sense of again, and then I precticed it some more. Most of th e algorithms were quite easy, but again I got stuck for a little while on the regex one, which is why I did the extra study. All in all it was good to recap this stuff to get it to feel more natural.
+
+**Link to work:**
