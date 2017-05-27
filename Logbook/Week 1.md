@@ -63,4 +63,4 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 
 **Thoughts:** The RegEx was hard! This is something I've done before, but it really hadn't stuck in my memory, and so took about 20 minutes to make sense of again, and then I precticed it some more. Most of th e algorithms were quite easy, but again I got stuck for a little while on the regex one, which is why I did the extra study. All in all it was good to recap this stuff to get it to feel more natural.
 
-**Link to work:**
+**Link to work:** [Day 6](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%201/Day%206)
