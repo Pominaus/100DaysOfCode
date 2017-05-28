@@ -64,3 +64,14 @@ With that in mind, to kick off this challenge, I thought I'd start by getting to
 **Thoughts:** The RegEx was hard! This is something I've done before, but it really hadn't stuck in my memory, and so took about 20 minutes to make sense of again, and then I precticed it some more. Most of th e algorithms were quite easy, but again I got stuck for a little while on the regex one, which is why I did the extra study. All in all it was good to recap this stuff to get it to feel more natural.
 
 **Link to work:** [Day 6](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%201/Day%206)
+
+---
+
+
+### Day 7: 28 May 2017:
+
+**Today's Progress:** Today was a Sunday and I had almost no free time. I just managed to get a little over an hour in at about 10pm attempting algorithms at freecodecamp.
+
+**Thoughts:** PHEW! What a day! I was really quite tired before I sat down to get my hour in for today. I won't lie, it ws one of those days where it would have been easier to just go to bed and have a crack at this tomorrow. However I really want to make my 100 days this time, and it's moments like this that test us, so I was actually weirdly excited to get that hour in before bed. I stumbled a lot more with these challenges, I think just because I was tired, so even though I was looking at examples on MDN, it wasn't always going in! Feeling pumped to have made week 1 though!
+
+**Link to work:** [Day 7](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%201/Day%207)
