@@ -30,6 +30,6 @@ function setup(){
       });
     });
   }
-});
+};
 setup();
 
