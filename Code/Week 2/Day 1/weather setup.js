@@ -1,4 +1,4 @@
-$(function(){
+function setup(){
   console.log("setup sript loaded");
   var darkSkyOverride = "https://cors-anywhere.herokuapp.com/"
   var weatherStr =
@@ -31,3 +31,5 @@ $(function(){
     });
   }
 });
+setup();
+
