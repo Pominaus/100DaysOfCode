@@ -1,4 +1,6 @@
-var darkSkyOverride = "https://cors-anywhere.herokuapp.com/"
+$(function(){
+  console.log("setup sript loaded");
+  var darkSkyOverride = "https://cors-anywhere.herokuapp.com/"
   var weatherStr =
     "https://api.darksky.net/forecast/15b0160607d46384859d0fafec93b26c/";
   var weatherExclude = "?exclude=minutely,hourly,daily,alerts";
@@ -28,3 +30,4 @@ var darkSkyOverride = "https://cors-anywhere.herokuapp.com/"
       });
     });
   }
+});
