@@ -19,3 +19,5 @@ The real take away from today has been to avoid template matching! I have a very
 **Today's Progress:** Today I started the C# track on pluralsight using the three month free trial. I also tried the Visual Studio Code editor on Linux (SUSE). For my hour of code, I just experimented with and extended the course example, focusing on my object structure.
 
 **Thoughts:** Bit of a weird one really. I've only done the absolute basics of C# before, and this course comes in hitting very high, very fast, so I actually learnt quite a lot. It was also my first time really using Visual Studio for any period of time. There were definitely times I felt a bit out of my depth, but just such a great amount of learning today. I've only just started this course, but really amazing how much I've learnt! I look forward to the next C# day on Thursday!
+
+**Link to work:** [Day 9](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%202/Day%209)
