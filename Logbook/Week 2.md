@@ -35,3 +35,16 @@ The real take away from today has been to avoid template matching! I have a very
 after spending about 1.5 hours on my layout and checking different screen widths, heights and ratios, I realised there had to be a better way than how i was making my liquid layout. i'd reas about flex and decided to give it a go. I read MDN's info a few times and watched a couple of examples on youtube. i then spent 2 hours convering my layout to use flex, and i encountered my first browser conflict (iOS safari cant handle a whole range of width parameters with flex aparently, but that lead me to find out more about flex-basic.
 
 All in all a great day of learning, even if i didnt actually get thst far with the 'game' side of things!
+
+**Link to work:** [Day 10](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%202/Day%2010)
+
+---
+
+
+### Day 11: 1st Jun 2017
+
+**Today's Progress:** Today I've been studying and experimenting with the HTML canvas, specifically 2D shapes
+
+**Thoughts:** This was hard! it's really taken me an hour and a half just to get some basic shapes and lines working. I'm very comfortable with the CSS was of breaking an image up into simple geometry, making those shapes from scratch using lines and radians? SomethingI've not had to think about since high school lol. I was actually studying some annimation and hit detection content for my tetromino game, but ran out of time to impliment it today as I have a family meal tonight.
+
+**Link to work:** [Day 11](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%202/Day%2011)
