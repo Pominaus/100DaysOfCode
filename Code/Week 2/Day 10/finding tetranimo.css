@@ -1,0 +1,91 @@
+//Find initial css for the finding tetranimo project below. 
+
+div,
+body,
+h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+h1 {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  font-size: 9vh;
+  font-family: Arial, sans-serif;
+}
+
+.content-wrap {
+  margin: 0 auto;
+  width: 75vh;
+  height: 100vh;
+  max-height: 150vw;
+  
+}
+
+.playArea {
+  margin: 5% auto;
+  height: 90%;
+  width: 90%;
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+.flex-wrap {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+}
+
+
+.touchButton {
+  opacity: 0.5;
+  text-align: center;
+  flex-grow: 1;
+  -webkit-box-flex:1; 
+    -webkit-flex:1
+  -webkit-flex-grow: 1;
+}
+
+.long {
+  flex-basis: 100%;
+}
+
+.short {
+  flex-basis: 50%;
+  height: 42vh;
+}
+
+.top {
+  height: 25vh;
+  background-color: red;
+}
+
+.bottom {
+  height: 33vh;
+  background-color: blue;
+}
+
+.left {
+  background-color: green;
+}
+
+.left h1 {
+  position: absolute;
+  right: 51%;
+}
+
+.right {
+  background-color: yellow;
+}
+
+.right h1 {
+  position: absolute;
+  left: 51%;
+}
