@@ -48,3 +48,16 @@ All in all a great day of learning, even if i didnt actually get thst far with t
 **Thoughts:** This was hard! it's really taken me an hour and a half just to get some basic shapes and lines working. I'm very comfortable with the CSS was of breaking an image up into simple geometry, making those shapes from scratch using lines and radians? SomethingI've not had to think about since high school lol. I was actually studying some annimation and hit detection content for my tetromino game, but ran out of time to impliment it today as I have a family meal tonight.
 
 **Link to work:** [Day 11](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%202/Day%2011)
+
+
+---
+
+
+
+### Day 12, 1st Jun 2017
+
+**Today's Progress:** Today i had a lot to do with the conpany i volunteer for so was a bit pressed for time. I started a trial on treehouse and for my hour of code I just started the layout and some basic css for a new profile page based on flex rather than bootstrap. I'll be using it for both FCC and treehouse if i keep that up.
+
+**Thoughts:* The real learn today actually came from outside my coding. i had to migrate a website from a backup to a new host today and update the dns and mx records. It was quite high pressure as it was both mission critical and time sensative. 
+
+From my coding i'm becoming more confortable with flex layouts and reslly liking it, particularly over options such of float and clearfix. 
