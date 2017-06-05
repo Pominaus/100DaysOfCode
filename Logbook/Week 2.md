@@ -60,4 +60,26 @@ All in all a great day of learning, even if i didnt actually get thst far with t
 
 **Thoughts:* The real learn today actually came from outside my coding. i had to migrate a website from a backup to a new host today and update the dns and mx records. It was quite high pressure as it was both mission critical and time sensative. 
 
-From my coding i'm becoming more confortable with flex layouts and reslly liking it, particularly over options such of float and clearfix. 
+From my coding I'm becoming more comfortable with flex layouts and reslly liking it, particularly over options such of float and clearfix. 
+
+
+---
+
+
+
+### Day 13, 2nd June 2017
+
+**Today's Progress:** continued the build a webpage track on tree house, coding along in my editor and experimenting
+
+**Thoughts:** I was in two minds about whether to count today, as i only managed to get about 90 mins in and i was technically following a course, but i went quite off-piste and was testing myself. its amazing how hard it can be to find time at the weekends! 
+
+
+---
+
+
+
+### Day 14, 3rd June 2017
+
+**Today's Progress:** today i literally manage to get 1hr 2 mins in by waiting for everyone to fall asleep and stsying up. so busy. I finished the build a website project and put some foundations in for a new profile.
+
+**Thoughts:** Really struggled to find the time! even having to uoad this weekend's progress on the monday night. I'm really glad I'm going back over things I think I know first on treehouse, I'm definitely getting a lot of practice in thr areas I'm a bit iffy in! 
