@@ -91,6 +91,6 @@ From my coding I'm becoming more comfortable with flex layouts and reslly liking
 
 ### Day 14... and a half, 4th June 2017
 
-**Today's progress:** I'm not counting today as a full day, as I just worked on my treehouse front end web course for 2.5 hours. I wanted to recap the CSS section on text formatting before continuing my profile site project, but ran out of time.
+**Today's progress:** I'm not counting today as a full day, as I just worked on my treehouse front end web course for hours. I wanted to recap the CSS section on text formatting before continuing my profile site project, but ran out of time.
 
 **Thoughts:** It kind of sucks to be missing a day, but I also learnt a lot today, like px isnt as simple as a screen pixel, when to use rem instead of em, calculating inheirted units, etc, and I'll be practicing all this tomorrow, so even though my 100days wont finish on time, I really didn't waste a day! 
