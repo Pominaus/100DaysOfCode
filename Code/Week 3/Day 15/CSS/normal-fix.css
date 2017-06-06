@@ -1,0 +1,49 @@
+/****************************
+Normal-fix stylesheet for Jon's Dev Blog
+This is based on example code found at
+https://github.com/jaydenseric/Fix/blob/master/fix.css
+by Jayden Seric
+code edited and suited to this project by
+Jon Mirow
+June 2017
+****************************/
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+p,
+nav
+div{
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  border: 0;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+a {
+  text-decoration: none;
+}
