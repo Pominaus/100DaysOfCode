@@ -1,0 +1,21 @@
+// CSS to set up a basic canvas for scripting:
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.playWrap {
+  
+  width: 90vw;
+  height: 100vw;
+  background-color: lightgrey;
+    margin:   auto;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+#playArea {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
