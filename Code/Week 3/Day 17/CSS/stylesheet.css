@@ -1,0 +1,276 @@
+/****************************
+main stylesheet for Jon's Dev Blog
+This is original code by 
+Jon Mirow
+June 2017
+****************************/
+
+
+
+/****************************
+Header
+****************************/
+
+
+header {
+  background: orange;
+  max-width: 100%;
+  color: #fefefa;
+  font-family: Oswald, sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  box-shadow: 0 3px 3px 0 lightgrey;
+  margin-bottom: 20px;  
+}
+
+.header-titles {
+  padding: 0;
+  position: relative;
+  min-height: 3.3em;  
+}
+
+#cover {
+  width: 100%;
+  min-height: 107px;
+  min-width: 375;
+}
+
+#sub-text {
+  position: absolute;
+  margin-top: 11%;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+  font-weight: normal;
+  color: #fefefa;
+}
+
+nav ul{
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline-block;
+  float: left;
+  width: 25%;
+  text-align: center;
+  border-bottom: 1px solid orange;
+  overflow: hidden;
+  
+}
+
+nav ul li a{
+  color: #fefefa;
+  display: inline-block;
+  width: 100%;
+  height: 1.4em;
+  line-height:1.3em;
+  font-size: 0.8em;
+  letter-spacing: 2px;
+  border-right: 1px solid white;
+}
+
+nav ul li a:nth-child(4) {
+  border-right:none;
+}
+
+
+nav li:hover, nav li.active {
+  border-bottom: 1px solid rgb(255, 255, 250);
+  box-shadow: 0px 3px 0px -1px orange;
+  color: white;
+}
+
+nav ul li a:hover {    
+  color: rgba(255, 255, 250, 0.8); 
+}
+
+
+
+
+/****************************
+Content areas
+****************************/
+
+#content-area {
+  width: 90%;
+  min-height: 41vh;
+  margin: 0 5%;
+  line-height: 1.4em;
+}
+
+
+
+
+
+section {
+  font-family: Oswald, sans-serif;
+  text-align: center;
+  color: darkorange;
+  text-transform: capitalize;
+}
+
+
+/****************************
+Portfolio Page
+****************************/
+
+
+
+/****************************
+About Page
+****************************/
+
+
+
+/****************************
+Contact Page
+****************************/
+
+
+
+/****************************
+Blog Page
+****************************/
+
+
+
+/****************************
+Footer
+****************************/
+
+
+footer {
+  width: 100%;
+  height: 6.7em;
+  font-family: Oswald, sans-serif;
+  
+}
+
+
+
+#back-to-top {
+  display: block;
+  width: 8em;
+  padding: 3px 10px;
+  text-align: center;
+  margin: 40px auto 0;
+  color: orange;
+  font-size: 0.8em;
+  line-height: 1.6em;
+  background: #555;
+  border-bottom: 1px solid orange;
+  border-radius: 10px 10px 0 0;
+  
+}
+
+#footer-content {
+  width: 100%;
+  height: 5em;
+  background: #555;
+  
+}
+
+.fa {
+  font-size: 2em;
+  width: 10%;
+  margin: 0.3em 5% 0;
+  text-align: center;
+}
+
+.icon-wrap {
+  width: 100%;
+  height: 50%;
+  margin: 0 auto;
+  text-align: center;
+  
+  
+}
+
+.fa-twitter-square {
+  color: lightblue;
+  padding-right: 3%;
+}
+
+.fa-github-square {
+  color: silver;
+}
+
+.fa-linkedin-square {
+  color: royalblue;
+  padding-right: 3%;
+}
+
+
+
+
+#footer-sig {
+  padding-top: 0.8em;
+  height: 1em;
+  color: #888;
+  text-align: center;
+  
+}
+
+
+/****************************
+Clearfix and hacks
+****************************/
+
+
+.clearfix:after {
+ content: " ";
+  visibility: hidden;
+  display: table;
+  clear: both;
+}
+
+
+/****************************
+Wider Screens
+****************************/
+
+
+@media (min-width: 500px) {
+  
+  #sub-text{  
+  font-size: 3em;
+  }
+  
+  nav ul li a {
+    font-size: 1em;
+  }
+  
+  .fa {
+    font-size: 2em
+  }
+}
+
+
+
+@media (min-width: 900px) {
+  
+  
+  #sub-text{  
+  font-size: 4em;
+  }
+  
+  nav ul li a {
+    font-size: 1.3rem;
+  }
+  
+  
+  #content-area {
+    max-width: 880px;
+    margin: 0 auto;
+  }
+  
+  .fa {
+    font-size: 2.5em;
+  }
+}
