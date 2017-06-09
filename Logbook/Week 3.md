@@ -12,3 +12,13 @@ I really struggled with whether I should be going for a modern, simple design th
 **Link to work:** [Day 15](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%203/Day%2015)
 
 --- 
+
+
+
+### Day 16: 7th June, 2017
+
+**Today's Progress:** Today I decided to work on my understanding of gradients by playing around with them on codepen. I found some interesting results.
+
+**Thoughts:** This is one of those things I'm so happy I did! I haven't often used gradients, mostly becauseI tend to think ofthem like wordart or other such 90's graphic effects. That means that when I want them, I always have to look up how to do them. That obviously doesn't feel good. As you can see, I started off with just simple linear and radial gradients, but then learnt to build up the layers and see what I could achieve. I pushed it a bit too hard and didn't have time to finish all 9 tiles I had planned, but I'm really happy with my progress and the thing's I have found from this. I  think I'd like to return to this at some point.
+
+**Link to work:** [Day 16](https://github.com/Pominaus/100DaysOfCode/tree/master/Code/Week%203/Day%2016)
