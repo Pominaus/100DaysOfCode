@@ -26,7 +26,7 @@ I really struggled with whether I should be going for a modern, simple design th
 ---
 
 
-###Day 18.5: 10 June, 2017
+### Day 18.5: 10 June, 2017
 
 **Today's Progress:** I missed today as I've been quite unwell. i found it hard to concentrate on coding, so instead kept studying JS on treehouse
 
