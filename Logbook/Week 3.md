@@ -31,3 +31,21 @@ I really struggled with whether I should be going for a modern, simple design th
 **Today's Progress:** I missed today as I've been quite unwell. i found it hard to concentrate on coding, so instead kept studying JS on treehouse
 
 **Thoughts:** Feel bad missing another day, and tomorrow I'll be rushed to fit in an hour at all if I'm feeling better, but determined not to reach two days abd fail the challenge!
+
+
+---
+
+
+
+### Day 19: 11th June, 2017
+
+**Today's Progress:** Sadly I felt even more unwell today and spebt the whole day in bed. fortunately I was able to do a couple of hours of studying on treehouse and wrote a header menu on codepen
+
+**Thoughts:** End of week 3! I'm really enjoying it this time around and am much less stressed. my knowledge and skill is progressing nicely and i feel happy learning something new every day. I'm really inpressed with treehouse's content - so many things have come up going over areas studied else where that never mentioned them! 
+
+
+today i learn't about CSS calc() function and CSS variables. both are experimental, which is why I've bever heard of them, but calc is now widely supported ebough to use in my projects, which is really great. 
+
+my coding session was more revision than anything, it was nice to feel confident laying down a header reltively quickly.
+
+**Link to work:**
