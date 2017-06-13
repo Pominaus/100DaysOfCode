@@ -24,8 +24,10 @@ Today I was answering questions on treehouse's forum. This is the one that I spe
 
 I first researched the __hash__ method and how to test for it in is_mutable.py, then began testing list, sets, dictionarys until I got a really good understanding of the topic. Itwas a good couple of hours of research and experiments. My answer was voted best by the OP, here is the response I gave:
 
->Jon Mirow 
+>Jon Mirow
+>
 >3 hours ago
+>
 >As Alex said, keys must be immutable, and in the case of tuples as keys, all of their contents must be immutable. Tuple's can be a >powerful way of using a dictionary, allowing you to look up multiple combinations of values, but of course, most dictionaries probably >don't need tuples for keys, so it's worth pointing out that this could be a warning sign to double-check your approach.
 
 >Here, the warning sign isn't using tuples - IP addresses and subnet masks (I assume) in tuples would be very good keys. However that >"keys and values may not be unique"... Basically that would be a red flag not to do this. If you can't guarantee that each IP and subnet >mask pair were unique you couldn't do it. Basically to switch keys with values you have to be sure that the values in the dictionary >will always be unique, and then handle any mutable objects.
