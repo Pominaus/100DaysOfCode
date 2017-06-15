@@ -22,3 +22,19 @@
 I learned about the .__hash__ method, the zip() function, dictionary comprehension and filter methods (previous question). It really helped keep my python fresh, and I'm becomming constantly more confident in python 3, not always thinking in python2.
 
 **Link to Work:** [Day 21]("")
+
+
+---
+
+
+
+### Day 23: 15th June, 2017
+
+
+**Today's Progress: **Today I refactored and optimised yesterday's random color project. I also added support for window resizing.
+
+**Thoughs:** Wow, learnt so much! yesterday I was just seeing if I could do it, today, I've been reallyi g thinking about the design and researching how to do what I wanted. I've learnt a lot, and managed to massively inprove the complexity of my code - over 50% cpu time reduction and the ability to run smoothly at 5x the speed where my browser was struggling to keep up yesterday.
+
+I achieved this by only populating the dom once, and pre-generating an array of colors to use. below 100 colors in length this is much faster, though inevitably as the length of the color pallet increases, the performance gain is lost until it becomes quicker to generate each random number again. however i found that at around 64 colors, the result is visually similar to the previous code, and allows me to use further restriction in color hue range. 
+
+i think I'd like to return to this, i have an idea for a shimmer effect using a similar approach.
