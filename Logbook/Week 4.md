@@ -38,3 +38,16 @@ I learned about the .__hash__ method, the zip() function, dictionary comprehensi
 I achieved this by only populating the dom once, and pre-generating an array of colors to use. below 100 colors in length this is much faster, though inevitably as the length of the color pallet increases, the performance gain is lost until it becomes quicker to generate each random number again. however i found that at around 64 colors, the result is visually similar to the previous code, and allows me to use further restriction in color hue range. 
 
 i think I'd like to return to this, i have an idea for a shimmer effect using a similar approach.
+
+
+**Link to work:**
+
+---
+
+
+
+### Day 23.5: 16th June, 2017
+
+**Today's progress:** Today i had a friend's birthday to attend, so couldnt really fin much time. all in all i had a little over an hour and i chose to study CSS Selectors and JS on treehouse.
+
+**Thoughts:** wow, I learned so much in the CSS selector course. I was already aware and confortable with ::before, ::after, :nth-child and :nth-of-type; but just learnt so much, from simple style things I might use once or twice like first letter and first line, to things that could be really useful in jQuery or CSS where I need to select sonething one time and it already has an id rule. Things like not, attribute selectors could really come in handy, and i now fully understand the nth type function parameters!
