@@ -4,6 +4,12 @@
 #
 import datetime
 
+def minutes(dt_obj1, dt_obj2):
+    """ Expects two datetime objects, returns the difference in days between them"""
+
+    t_delta = dt_obj2 - dt_obj1
+    seconds = round(t_delta.total_seconds())
+    return round(abs(seconds) // 60)
 
 def month(key):
     """ Turns a given number into a 3 letter month string
