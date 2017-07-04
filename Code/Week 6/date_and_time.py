@@ -52,8 +52,9 @@ def get_date(date=None, *args, **kwargs):
 
 if __name__ == "__main__":
     today = datetime.date.today()
-    tomorrow = today.replace(day=today.day + 1)
-    yesterday = today.replace(day=today.day - 1)
+    one_day = datetime.timedelta(days=1)
+    tomorrow = today + one_day
+    yesterday = today - one_day
     yesterday_date = get_date(yesterday)
     today_date = get_date()
     tomorrow_date = get_date(tomorrow)
